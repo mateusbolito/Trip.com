@@ -310,3 +310,13 @@ background-image: url("https://ak-d.tripcdn.com/images/22070n000000eyqjnAF6F_R_5
 margin-top: 10px;
 border-radius: 5px;
 `
+export const ButtonContentContainer = styled.button`
+ width: 100px;
+ border: none;
+ background: transparent;
+ display: flex;
+ align-items: center;
+ height: 80px;
+ font-size: 17px;
+ margin-left: 160px;
+`
