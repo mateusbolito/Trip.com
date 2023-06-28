@@ -22,4 +22,5 @@ Projeto pessoal desenvolvido por mim, tem como objetivo uma page de viagens inte
 + TypeScript: O projeto foi desenvolvido utilizando TypeScript, uma linguagem de programação que adiciona tipagem estática opcional ao JavaScript. O TypeScript ajuda a evitar erros comuns durante o desenvolvimento.
 + Styled Components: Biblioteca utilizada para estilização de componentes com CSS-in-JS. Com o Styled Components, é possível escrever estilos de forma mais modular e encapsulada.]
 + React Router DOM: Biblioteca utilizada para gerenciamento de rotas no React. Permite criar rotas de forma declarativa e é bastante flexível, oferecendo recursos avançados como rotas aninhadas, redirecionamentos e proteção de rotas.
-
++ 
+https://trip-com.vercel.app/
